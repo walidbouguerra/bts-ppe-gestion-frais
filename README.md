@@ -26,7 +26,7 @@ Admin : admin / admin
 ```
 
 ## Screenshots
-![](https://raw.githubusercontent.com/walidbouguerra/bts-ppe-gestion-frais/main/screenshots/login.PNG)
-![](https://raw.githubusercontent.com/walidbouguerra/bts-ppe-gestion-frais/main/screenshots/accueil.PNG)
-![](https://raw.githubusercontent.com/walidbouguerra/bts-ppe-gestion-frais/main/screenshots/saisir_frais.png)
-![](https://raw.githubusercontent.com/walidbouguerra/bts-ppe-gestion-frais/main/screenshots/admin.PNG)
+![login](https://raw.githubusercontent.com/walidbouguerra/bts-ppe-gestion-frais/main/screenshots/login.PNG)
+![accueil](https://raw.githubusercontent.com/walidbouguerra/bts-ppe-gestion-frais/main/screenshots/accueil.PNG)
+![saisir frais](https://raw.githubusercontent.com/walidbouguerra/bts-ppe-gestion-frais/main/screenshots/saisir_frais.png)
+![admin](https://raw.githubusercontent.com/walidbouguerra/bts-ppe-gestion-frais/main/screenshots/admin.PNG)
