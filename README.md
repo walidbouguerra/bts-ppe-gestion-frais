@@ -9,6 +9,10 @@ Développement d'une application de gestion des frais de déplacement, de restau
 L'application va permettre d'établir une gestion plus précise et uniforme entre les entités du laboratoire.
 Elle devra permettre aux visiteurs d'inscrire leurs dépenses, de visualiser la prise en charge des remboursements (enregistré, validé, remboursé).
 
+## Technologies
+Front : HTML / CSS / Bootstrap / JavaScript  
+Back : PHP (POO et MVC) / MySQL  
+
 ## Installation
 Base de données
 ```
