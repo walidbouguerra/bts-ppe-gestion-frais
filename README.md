@@ -3,7 +3,7 @@ J'ai effectué ce projet dans le carde de mon PPE (Projet Personnel Encadré) po
 Vous pouvez retrouvez toutes les informations concernant le projet ici : [https://www.reseaucerta.org/content/contexte-%C2%AB-laboratoire-gsb-%C2%BB](https://www.reseaucerta.org/content/contexte-%C2%AB-laboratoire-gsb-%C2%BB)
 
 ## Objectif
-Développement d'une application de gestion des frais de déplacement, de restauration et d'hébergement générés par l'activité de visite médicale pour un laboratoire.
+Développement d'une application web de gestion des frais de déplacement, de restauration et d'hébergement générés par l'activité de visite médicale pour un laboratoire.
 
 ## Description
 L'application va permettre d'établir une gestion plus précise et uniforme entre les entités du laboratoire.
